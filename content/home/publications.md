@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: pages
+widget_id: RECENT-POSTS
 headless: true
 weight: 90
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
@@ -13,7 +13,7 @@ content:
     category: ""
     publication_type: ""
     author: ""
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   count: 0
