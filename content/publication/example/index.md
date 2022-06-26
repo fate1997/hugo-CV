@@ -40,7 +40,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: ACS Central Science
 url_source: ""
 url_video: ""
 title: Transition state theory-inspired neural network for estimating the
