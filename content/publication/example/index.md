@@ -29,7 +29,8 @@ authors:
   - Liu-Ying Yu
   - Gao-Peng Ren
   - Xiao-Jing Hou
-  - Ke-Jun Wu* and Yu-Chen He
+  - Ke-Jun Wu*
+  - Yu-Chen He
 author_notes:
   - Equal contribution
   - Equal contribution
