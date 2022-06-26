@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Zhejiang University
+    url: https://www.zju.edu.cn/english/
 education:
   courses:
     - course: PhD in Artificial Intelligence
