@@ -4,9 +4,9 @@ role: Master Student of Chemical Engineering
 avatar_filename: ""
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Drug Discovery
+  - Graph Neural Networks
+  - AI for Science
 social:
   - icon: envelope
     icon_pack: fas
