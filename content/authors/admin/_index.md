@@ -1,6 +1,6 @@
 ---
 title: Gaopeng Ren
-role: Professor of Artificial Intelligence
+role: Master Student of Chemical Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
