@@ -53,7 +53,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: network.jpg
-date: 2013-07-01T00:00:00.000Z
+date: 2022-06-26T12:07:01.056Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
