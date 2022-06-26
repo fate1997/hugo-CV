@@ -26,13 +26,15 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Liu-Ying Yu†
-  - Gao-Peng Ren†
+  - Liu-Ying Yu
+  - Gao-Peng Ren
   - Xiao-Jing Hou
   - Ke-Jun Wu* and Yu-Chen He
 author_notes:
   - Equal contribution
   - Equal contribution
+  - ""
+  - Corresponding author
 publication: ""
 summary: ""
 url_dataset: ""
@@ -51,9 +53,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: network.jpg
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
