@@ -1,6 +1,7 @@
 ---
 title: Gaopeng Ren
 role: Master Student of Chemical Engineering
+avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
