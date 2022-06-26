@@ -19,16 +19,13 @@ organizations:
     url: https://www.zju.edu.cn/english/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master in Chemical Engineering and Technology
+      institution: Zhejiang University
+      year: 2020
+    - course: Bachelor in Chemical Engineering and Technology
+      institution: Zhejiang University
+      year: 2016
+email: 3160105897@zju.edu.cn
 superuser: true
 highlight_name: true
 ---
