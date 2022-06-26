@@ -1,9 +1,8 @@
 ---
 title: Gaopeng Ren
 role: Master Student of Chemical Engineering
-avatar_filename: photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ""
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a post-graduate at Zhejiang University, major in Chemical Engineering. My research interests include drug discovery, molecular respresentation learning and graph neural network. I dedicate to apply artificial intelligence to advance science, especially in combining theory equation and neural networks.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+At present, I am interested in following three specific studies. First, combining Schrödinger Equation and graph neural network for molecular representation learning. Second, constructing a graph neural network for graph2graph tasks. Last but not least, generating molecules that meet specific needs.
