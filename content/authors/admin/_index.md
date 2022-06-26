@@ -1,7 +1,7 @@
 ---
 title: Gaopeng Ren
 role: Master Student of Chemical Engineering
-avatar_filename: ""
+avatar_filename: photo.jpg
 bio: ""
 interests:
   - Drug Discovery
